@@ -12,11 +12,11 @@
      for(0; x>=1; --x){
 
          if(a%x==0 && b%x==0){
-         printf("%d\n", x);
+         printf("GCD: %d\n", x);
          break;
      }
 
     }
      
 
- }   
+ }  
